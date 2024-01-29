@@ -79,4 +79,4 @@ When you no longer need this sample application running live, you can delete it 
 This will delete the app and destroy any underlying DigitalOcean resources
 
 **Note: If you don't delete your app, charges for the use of DigitalOcean services will continue to accrue.**
-[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/{pauloccardona}/sample-django/tree/{main})
+[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/pauloccardona/sample-django/tree/main)
